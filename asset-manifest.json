@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/CoinAssist/static/css/main.e282ad37.css",
-    "main.js": "/CoinAssist/static/js/main.6e89b690.js",
-    "index.html": "/CoinAssist/index.html",
-    "main.e282ad37.css.map": "/CoinAssist/static/css/main.e282ad37.css.map",
-    "main.6e89b690.js.map": "/CoinAssist/static/js/main.6e89b690.js.map"
+    "main.css": "./static/css/main.e282ad37.css",
+    "main.js": "./static/js/main.6e89b690.js",
+    "index.html": "./index.html",
+    "main.e282ad37.css.map": "./static/css/main.e282ad37.css.map",
+    "main.6e89b690.js.map": "./static/js/main.6e89b690.js.map"
   },
   "entrypoints": [
     "static/css/main.e282ad37.css",
