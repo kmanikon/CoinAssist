@@ -25,7 +25,7 @@ const Cryptocurrencies = ( { simplified }) => {
   const [cryptos, setCryptos] = useState([]);
 
   // state for serachbar input
-  const [searchTerm, setSearchTerm] = useState('')
+  const [searchTerm, setSearchTerm] = useState('');
 
 
   // update cards each time user input changes
