@@ -31,6 +31,8 @@ const Cryptocurrencies = ( { simplified }) => {
   // update cards each time user input changes
   useEffect(() => {
 
+    //setCryptos(cryptosList?.data?.coins);
+
     // data filtered by new seach input
     const filteredData = cryptosList?.data?.coins.filter((item) => item.name.toLowerCase().includes(searchTerm));
 
